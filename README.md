@@ -8,3 +8,4 @@ Do whatever the boss asked me to do
 =======
 ### [Click here to download chrome] (https://www.google.com/chrome) "Download Chrome")
 >>>>>>> Stashed changes
+READ ME MORE
